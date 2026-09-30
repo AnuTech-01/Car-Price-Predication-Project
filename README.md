@@ -404,7 +404,9 @@ The input is scaled with the saved `StandardScaler` and then passed to the Rando
 
 
 **Anu Jangid**
-GitHub: (https://github.com/AnuTech-01)
-Linkedin : (https://www.linkedin.com/in/anu-jangid-726564328/)
+
+GitHub: https://github.com/AnuTech-01
+
+Linkedin : https://www.linkedin.com/in/anu-jangid-726564328/
 
 If you found this project useful, please give it a ⭐ on GitHub.
