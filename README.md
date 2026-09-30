@@ -12,13 +12,16 @@ A machine learning project that predicts the **selling price of a used car (in â
 ## ðŸ“¸ Screenshots
 
 ### 1. Input form
-![Input form](C:\Users\asd\Pictures\Screenshots\Screenshot (2063).png)
+![Input form]<img width="1366" height="734" alt="Screenshot (2063)" src="https://github.com/user-attachments/assets/ce9f90cb-1b46-42f7-8775-d4f4aca425d0" />
+
 
 ### 2. Vehicle details
-![Vehicle details](C:\Users\asd\Pictures\Screenshots\Screenshot (2064).png)
+![Vehicle details]<img width="1366" height="734" alt="Screenshot (2064)" src="https://github.com/user-attachments/assets/068c93ff-d47a-4a3d-9889-41293433c67b" />
+
 
 ### 3. Predicted price
-![Predicted price](C:\Users\asd\Pictures\Screenshots\Screenshot (2068).png)
+![Predicted price]<img width="1366" height="721" alt="Screenshot (2068)" src="https://github.com/user-attachments/assets/515e9035-c103-468d-add8-a4ebb12cabd1" />
+
 
 ---
 
