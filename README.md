@@ -206,8 +206,8 @@ All commands below are for **Windows (Command Prompt or VS Code terminal)**.
 ### Step 1: Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/<your-repo-name>.git
-cd <your-repo-name>
+git clone https://github.com/AnuTech-01/Car-Price-Predication-Project.git
+cd Car-Price-Predication-Project
 ```
 
 ### Step 2: Create the virtual environment (`carVenv`)
